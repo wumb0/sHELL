@@ -16,7 +16,7 @@ CentOS (I think)
 The rest are untested
 
 lolcat version prints everything slow and colorful!
-'''
+<code>
 gem install lolcat
-'''
+</code>
 
