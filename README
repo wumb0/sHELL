@@ -1,0 +1,22 @@
+sHELL
+=====
+This thing is a nightmare trap shell.
+Makes you say please to run any commands
+
+USE AT YOUR OWN RISK!
+
+Does not brick:
+Debian Wheezy (bash)
+FreeBSD (csh)
+
+Bricks:
+Ubuntu 13.04 (bash)
+CentOS (I think)
+
+The rest are untested
+
+lolcat version prints everything slow and colorful!
+'''
+gem install lolcat
+'''
+
