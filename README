@@ -11,12 +11,12 @@ FreeBSD (csh)
 
 Bricks:
 Ubuntu 13.04 (bash)
-CentOS (I think)
+CentOS (bash) (I think)
 
-The rest are untested
+The rest are untested.
 
-lolcat version prints everything slow and colorful!
-<code>
+lolcat version prints everything slow and colorful, bash only!
+
+Run:
 gem install lolcat
-</code>
 
